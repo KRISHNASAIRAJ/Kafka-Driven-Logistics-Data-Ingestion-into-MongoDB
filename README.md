@@ -13,7 +13,7 @@ The project orchestrates a pipeline to process logistics data using Kafka messag
 ## Technology Used
 * Python Scripts:
     * kafka_producer.py: Sends logistics data to Kafka.
-    * kafka_consumer.py: Processes data from Kafka and stores it in MongoDB.
+    * kafka_consumer.py: Processes data from Kafka and stores it in MongoDB.It starts consuming the earliest message available in the partition.
 * Docker: Utilized to scale consumer instances using the docker-compose.yml file.
 * Data Schema: Avro schema represented in avro.json for structured data handling.
 * File Contents: delivery_trip_truck_data.csv: Contains logistics data for ingestion.
