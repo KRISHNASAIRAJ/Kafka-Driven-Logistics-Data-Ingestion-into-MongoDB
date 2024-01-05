@@ -35,5 +35,10 @@ The project orchestrates a pipeline to process logistics data using Kafka messag
 <img width="315" alt="Screenshot 2024-01-05 125504" src="https://github.com/KRISHNASAIRAJ/Kafka-Driven-Logistics-Data-Ingestion-into-MongoDB-with-Python/assets/90061814/843090d3-da47-45fa-ad48-1035b9d02b03">
 
 </div>
+## Producer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consumer
+<div style="display:flex; justify-content: center;">
+  <img width="398" alt="Screenshot 2024-01-05 141253" src="https://github.com/KRISHNASAIRAJ/Kafka-Driven-Logistics-Data-Ingestion-into-MongoDB-with-Python/assets/90061814/abab486e-3ee1-44d3-98ff-a047ceab7f01">
+<img width="380" alt="Screenshot 2024-01-05 140926" src="https://github.com/KRISHNASAIRAJ/Kafka-Driven-Logistics-Data-Ingestion-into-MongoDB-with-Python/assets/90061814/f8477175-2606-4c9c-b6ba-6cb390a6655f">
 
-  <img width="784" alt="Screenshot 2024-01-05 141253" src="https://github.com/KRISHNASAIRAJ/Kafka-Driven-Logistics-Data-Ingestion-into-MongoDB-with-Python/assets/90061814/abab486e-3ee1-44d3-98ff-a047ceab7f01">
+
+</div>
