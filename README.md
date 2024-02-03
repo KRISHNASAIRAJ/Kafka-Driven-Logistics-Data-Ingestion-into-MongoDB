@@ -1,4 +1,4 @@
-# Kafka-Driven-Logistics-Data-Ingestion-into-MongoDB-with-Python
+# Kafka-Driven-Logistics-Data-Ingestion-into-MongoDB
 The project orchestrates a pipeline to process logistics data using Kafka messaging and stores it efficiently in MongoDB. It involves Kafka producer and consumer scripts, Docker for scalability, and integrates Avro schema for data serialization.
 
 
