@@ -19,6 +19,7 @@ The project orchestrates a pipeline to process logistics data using Kafka messag
 * File Contents: delivery_trip_truck_data.csv: Contains logistics data for ingestion.
 * Kafka Configuration:
     * Kafka topic: 'truck_data' created with 10 partitions.
+* MongoDB:Database for storing the logistics data
  
 
 ## How to Use
